@@ -4,7 +4,10 @@ using namespace std;
 
 void header()
 {
-	system ("cls");
+	system ("clear");
+	// replace the above line with the one below if you use windows:
+	// system ("cls");
+	
 	cout << "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ Sudoku Tomodachi ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]" << endl;
 	cout << endl << endl;
 }
